@@ -12,8 +12,7 @@ The idea of this study is inspired by John Rauser during his talk about ["Statis
 
 <h2>Languages and Utilities Used</h2>
 
-- <b>Pandas</b> 
-- <b>Spotipy API</b>
+- <b>Pandas</b>
 - <b>Matplotlib</b>
 - <b>seaborn</b>
 - <b>numpy</b>
